@@ -1,71 +1,78 @@
-Markdown Resumé
-===============
+Alexandr Korsak Resumé
+=======================
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
+[Alexandr Korsak](https://raw.github.com/oivoodoo/resume-1/master/resume.pdf)
 <http://github.com/mwhite/resume>
+
+About
+------
+
+I started to develop my first applications for DOS and Windows using assember(fasm)
+and C languages (very basic applications like calculator, small games like snake and
+tetris) whilst I was learning programming and mathematics at school.
+
+At university I continued learning programming, mathematics and then hardware
+(computer science). Starting from the third year of my studies I found a job in the big IT
+company in Minsk (Belarus). As a Software Developer I was working on the web
+development stories. My first company experience was connected with SharePoint, ASP
+.Net development. Then I've decided to learn something new. I found out that I prefer to
+work with open source projects and decided to dig into ruby, javascript applications
+development. The next 3 years I was working as a Ruby On Rails / Javascript contractor.
+After that me and my friends decided to create a small company to work on our projects.
+At present it is 12 months since I'm working as a Technical Lead, Scrum Master.
+
+For now I am learning the game development using Html5, JavaScript, Dart technologies. Check out
+several games below that I posted to the google chrome webstore. I've provided
+sources on the Github.
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
-
+*   Software Development using the latest technologies.
+*   Ruby, JavaScript, C, Dart(Junior), Go(Junior).
+*   Frameworks: Rails, Sinatra, Grape, NodeJS, BackboneJS, AngularJS.
+*   Game Develoment: CakeJS (Html5 Canvas Renderer), RaphaelJS (SVG Renderer)
+*   Developing process tools like Time Tracking or Pomodoro Timer. 
+    For now I am working on the Vim plugin for making possible to track my
+    working time.
+*   Pair programming, it's definitely great way to improve the knowledge in the
+    different technologies, make a reliable application from the different points
+    and increase communication skills.  
+*   Contests like Rails Rumble or Nodeknockout. It's helping to find out the
+    best way to deliver idea as soon as possible.
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Ruby on Rails Developer** (Remotely)
 
-    Junior Resumé Maker, 2006 - 2007
+    Working on the advertisement platform. As backend developer I have the next
+    following reponsibilities:
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+    - Developing and maintaining several parts of the PlacePlayAds system.
+    - Reviewing the project requirements, designing the architecture.
+    - Working using BDD(Behavior-Driven Development) practice, automated tests.
+    - Code reviews.
+    - Sync application data using external API.
+    - Staying with the latest technologies and recommending improvements.
+    - Troubleshooting and fixing issues.
+    - Maintaining source code, Github, Heroku.
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Belarussian State University of Informatics and Radioelectronics**
 
-    B.S. in Submodules, May 2012
+    B.S. in Computer Science(Computer Networks and Systems), May 2010
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Very experienced with Ruby, JavaScript, Vim and related frameworks,
+    libraries like Rails, Sinatra, Grape, Rspec, Cucumber, Unit Tests, NodeJS,
+    BackboneJS, AngularJS.
 
-*   Familiar with GNU Make, bash
-
+*   Familiar with GNU Make, bash, C
 
