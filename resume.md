@@ -79,7 +79,7 @@ Work Experience
     - We were working using Red -> Green -> Refactor technique.
 
 
-* I can describe fully my previous about 5 years experience on an interview
+* I can describe fully my previous experience (about 5 years) during an interview
 
 Education
 ---------
